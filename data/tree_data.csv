@@ -1,0 +1,189 @@
+﻿Region;Country;Land Cover;Land with >=10% cover (%);Avg tree cover (%)
+Latin America;Mexico;Cropland;52.58;29.71
+;Mexico;Urban;49.3;19.48
+;Argentina;Cropland;42.65;28.52
+;Argentina;Urban;55.63;25.11
+;Belize;Cropland;42.24;23.84
+;Belize;Urban;73.91;23.01
+;Bolivia;Cropland;42.48;23.21
+;Bolivia;Urban;32.77;13.02
+;Brazil;Cropland;43.59;32.46
+;Brazil;Urban;50.88;19.94
+;Chile;Cropland;2.47;0.86
+;Chile;Urban;15.97;5.78
+;Colombia;Cropland;63.79;36.33
+;Colombia;Urban;44.22;20.96
+;Costa Rica;Cropland;70.7;29.34
+;Costa Rica;Urban;52.5;20.1
+;Ecuador;Cropland;63.95;34.27
+;Ecuador;Urban;43.05;18.54
+;El Salvador;Cropland;69.8;30.51
+;El Salvador;Urban;76.29;32.49
+;French Guiana;Cropland;78.11;47.18
+;French Guiana;Urban;59.95;30.44
+;Guatemala;Cropland;57.76;33.52
+;Guatemala;Urban;52.54;22.05
+;Honduras;Cropland;69.72;27.78
+;Honduras;Urban;60.82;23.76
+;Nicaragua;Cropland;76.38;33.07
+;Nicaragua;Urban;73.23;24.47
+;Panama;Cropland;75.74;37.66
+;Panama;Urban;59.85;28.55
+;Paraguay;Cropland;35.55;15.03
+;Paraguay;Urban;84.61;28.23
+;Peru;Cropland;34.02;17.74
+;Peru;Urban;21.08;12.07
+;Suriname;Cropland;68.73;47.41
+;Suriname;Urban;49.31;25.16
+;Venezuela;Cropland;59.08;32.64
+;Venezuela;Urban;56.18;19.31
+Caribbean;Caribbean;Cropland;68.32;37.67
+;Caribbean;Urban;76.5;34.08
+;Cuba;Cropland;64.93;34.26
+;Cuba;Urban;77.45;25.01
+;Dominican Republic;Cropland;66.76;34.53
+;Dominican Republic;Urban;79.94;28.34
+;Guyana;Cropland;36.33;27.54
+;Guyana;Urban;48.05;17.13
+;Haiti;Cropland;80.66;35.88
+;Haiti;Urban;70.8;25.59
+;Jamaica;Cropland;73.41;43.03
+;Jamaica;Urban;75.98;33.2
+West Africa;Benin;Cropland;46.76;14.67
+;Benin;Urban;28.69;8.79
+;Burkina Faso;Cropland;52.47;15.82
+;Burkina Faso;Urban;28.68;10.31
+;Cameroon;Cropland;51.64;42.92
+;Cameroon;Urban;57.76;21.12
+;Gambia;Cropland;52.09;32.87
+;Gambia;Urban;84.12;20.42
+;Ghana;Cropland;62.44;28.34
+;Ghana;Urban;48.1;14.51
+;Guinea;Cropland;71.61;35.59
+;Guinea;Urban;49.37;17.41
+;Guinea-Bissau;Cropland;84.05;49.96
+;Guinea-Bissau;Urban;60.91;27.32
+;Ivory Coast;Cropland;88.01;49.83
+;Ivory Coast;Urban;38.49;13.78
+;Liberia;Cropland;97.83;82.22
+;Liberia;Urban;57.55;23.08
+;Mali;Cropland;47.36;17.2
+;Mali;Urban;38.67;9.32
+;Mauritania;Cropland;15.55;10.08
+;Mauritania;Urban;18.21;5.57
+;Niger;Cropland;14.08;7.16
+;Niger;Urban;50.39;12.39
+;Nigeria;Cropland;33.56;26.42
+;Nigeria;Urban;29.28;9.61
+;Senegal;Cropland;31.86;18.74
+;Senegal;Urban;44.64;16.59
+;Sierra Leone;Cropland;86.55;57.99
+;Sierra Leone;Urban;50.42;16.29
+;Togo;Cropland;32.53;14.22
+;Togo;Urban;42.68;12.58
+East Africa;Burundi;Cropland;71;27.14
+;Burundi;Urban;50.61;15.41
+;Eritrea;Cropland;28.21;10.6
+;Eritrea;Urban;17.6;13.06
+;Ethiopia;Cropland;42.83;15.2
+;Ethiopia;Urban;40.48;18.28
+;Kenya;Cropland;62.47;29.56
+;Kenya;Urban;53.48;16.09
+;Madagascar;Cropland;63.55;22.68
+;Madagascar;Urban;37.3;13.84
+;Malawi;Cropland;30.21;16.69
+;Malawi;Urban;37.99;10.57
+;Mozambique;Cropland;60.51;25.68
+;Mozambique;Urban;62.28;19.37
+;Rwanda;Cropland;34;21.69
+;Rwanda;Urban;32.57;9.6
+;Somalia;Cropland;72.71;28.25
+;Somalia;Urban;40.94;16.02
+;Tanzania;Cropland;51.1;28.74
+;Tanzania;Urban;58.41;18.18
+;Uganda;Cropland;40.65;17.29
+;Uganda;Urban;46.45;11.42
+;Zambia;Cropland;64.42;31.46
+;Zambia;Urban;46.82;15.5
+;Zimbabwe;Cropland;56.88;24.15
+;Zimbabwe;Urban;55.02;17.11
+Central/South Africa;Angola;Cropland;54.32;25.86
+;Angola;Urban;33.24;12.58
+;Botswana;Cropland;35.16;13.53
+;Botswana;Urban;66.07;17.93
+;Central African Republic;Cropland;65.28;32.48
+;Central African Republic;Urban;71.66;23.23
+;Chad;Cropland;49.44;18.02
+;Chad;Urban;61.74;16.65
+;Democratic Republic of the Congo;Cropland;72.48;49.4
+;Democratic Republic of the Congo;Urban;57.32;23.33
+;Equatorial Guinea;Cropland;98;74.84
+;Equatorial Guinea;Urban;72.89;28.67
+;Gabon;Cropland;85.37;65.68
+;Gabon;Urban;79.02;35.93
+;Lesotho;Cropland;10.38;6.47
+;Lesotho;Urban;14.33;2.75
+;Namibia;Cropland;52.03;16.52
+;Namibia;Urban;42;11.92
+;Republic of Congo;Cropland;66.54;51.46
+;Republic of Congo;Urban;51.22;21.95
+;South Africa;Cropland;16.31;9.28
+;South Africa;Urban;45.13;14.12
+;South Sudan;Cropland;43.82;17.53
+;South Sudan;Urban;42.36;16.18
+;Sudan;Cropland;18.45;8.07
+;Sudan;Urban;26.3;10.44
+;Swaziland;Cropland;52.68;26.48
+;Swaziland;Urban;46.91;12.77
+Asia/Oceania;Australia;Cropland;19.58;19.95
+;Australia;Urban;59.63;20.91
+;Bangladesh;Cropland;52.9;30.42
+;Bangladesh;Urban;73.69;31.35
+;Brunei;Cropland;84.04;47.42
+;Brunei;Urban;79.88;29.8
+;Cambodia;Cropland;46.45;28.51
+;Cambodia;Urban;64.85;23.04
+;China;Cropland;80.12;44.99
+;China;Urban;50.19;18.43
+;East Timor;Cropland;87.46;43.76
+;East Timor;Urban;41.96;13.17
+;Fiji;Cropland;67.91;39.63
+;Fiji;Urban;83.07;39.73
+;Hong Kong;Cropland;91;51.88
+;Hong Kong;Urban;63.2;26.63
+;India;Cropland;46.09;37.31
+;India;Urban;60.77;25.38
+;India Islands;Cropland;76.85;44.29
+;India Islands;Urban;78.16;40.1
+;Indonesia;Cropland;85.39;43.66
+;Indonesia;Urban;52.14;25.78
+;Laos;Cropland;74.47;37.16
+;Laos;Urban;76.83;22.34
+;Malaysia;Cropland;90;50.04
+;Malaysia;Urban;68.29;27.74
+;Myanmar;Cropland;59.06;34.26
+;Myanmar;Urban;74.67;31.57
+;New Caledonia;Cropland;71.79;35.46
+;New Caledonia;Urban;69.79;30.47
+;Papua New Guinea;Cropland;71.63;34.6
+;Papua New Guinea;Urban;54.44;27.7
+;Philippines;Cropland;75.65;38.44
+;Philippines;Urban;69.3;25.1
+;Saudi Arabia;Cropland;27.59;11.73
+;Saudi Arabia;Urban;6.6;5.24
+;Singapore;Cropland;66.01;40.38
+;Singapore;Urban;59.59;19.48
+;Solomon Islands;Cropland;77.12;44.29
+;Solomon Islands;Urban;85.94;57.13
+;Sri Lanka;Cropland;73.62;42.6
+;Sri Lanka;Urban;88.76;39.01
+;Taiwan;Cropland;60.36;48.71
+;Taiwan;Urban;53.61;21.32
+;Thailand;Cropland;63.11;36.54
+;Thailand;Urban;74.87;28.1
+;Vanuatu;Cropland;75.57;36.62
+;Vanuatu;Urban;88.7;55.38
+;Vietnam;Cropland;62.77;34.24
+;Vietnam;Urban;58.83;20.07
+;Yemen;Cropland;33.63;14.82
+;Yemen;Urban;18.1;10.28
